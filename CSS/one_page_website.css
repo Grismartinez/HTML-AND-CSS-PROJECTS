@@ -1,0 +1,28 @@
+body{
+Font-family: verdana;
+font-size:small;
+font-weight: 700;
+color:blue
+
+/*HEADER*/
+h1{
+    background-color: rgb(1,128,106);
+    border-bottom: 5px solid (247,177,188);
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+}
+
+#about-main-text{
+    text-align: justify;
+    padding-top: 20px;
+    margin-left: 40px;
+}
+
+
+
+
+
+
